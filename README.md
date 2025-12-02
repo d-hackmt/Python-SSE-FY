@@ -5,7 +5,32 @@
 
 ---
 
-Learn python faster : 
+### Where to code : 
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4f45dbea-5642-4180-b00b-79742b119ae5" />
+
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/04c35ce0-f8eb-4609-9e0f-00e9c309d333" />
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/91e24ad9-be6b-4f96-af4c-49b24f038473" />
+
+
+
+VS CODE : https://code.visualstudio.com/Download
+
+Ai based code editors 
+
+Antigravity :  https://antigravity.google/download
+
+Cursor Ai   : https://cursor.com/download
+
+---
+
+### Learn python faster : 
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/279dc0ad-a812-469d-bd68-78f65b0d7074" />
+
+
 
 Mayank Agarwal : https://www.youtube.com/playlist?list=PLI2v4rh7YVhdzMPIrK0az-tfd0wSDbjhp
 
