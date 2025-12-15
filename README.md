@@ -4,7 +4,7 @@
 
 
 ---
-Whats been covered in class : https://drive.google.com/drive/folders/1-Q2Scs-3msFsTBjpmGPyQbdxEryyMBQ0?usp=sharing
+[Whats been covered in class](https://drive.google.com/drive/folders/1-Q2Scs-3msFsTBjpmGPyQbdxEryyMBQ0?usp=sharing) 
 
 Demo apps repository : https://github.com/divesh-sse/python-demo-apps
 
